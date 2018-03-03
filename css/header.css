@@ -46,6 +46,9 @@
 .navbar{
   padding: 0px;
 }
+body {
+  font-family: Helvetica;
+}
 
 #logo img{
 	opacity:1.0;
